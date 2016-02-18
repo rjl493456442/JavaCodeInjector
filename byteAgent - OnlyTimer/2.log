@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-02-03T14:31:49</date>
+  <millis>1454481109865</millis>
+  <sequence>0</sequence>
+  <logger>byteAgent</logger>
+  <level>INFO</level>
+  <class>TimerStack</class>
+  <method>test1</method>
+  <thread>1</thread>
+  <message>[Takes (Sec nano)]50632</message>
+</record>
+</log>

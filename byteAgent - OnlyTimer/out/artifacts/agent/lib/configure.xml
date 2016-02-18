@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<agentConfigure>
+  <packageName></packageName>
+  <serviceEntryFunctions>
+    <functionName>*</functionName>
+
+  </serviceEntryFunctions>
+  <serviceEntryFunctionsExcept>
+  	<functionName>main</functionName>
+ 	</serviceEntryFunctionsExcept>
+  <logFileName>test.log</logFileName>
+  <rules>
+    <rule>ElapsedTime</rule>
+  </rules>
+</agentConfigure>

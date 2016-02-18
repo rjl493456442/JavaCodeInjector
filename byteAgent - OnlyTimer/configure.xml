@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<agentConfigure>
+  <packageName></packageName>
+  <serviceEntryFunctions>
+    <functionName>function</functionName>
+    <functionName>function</functionName>
+    <functionName>function</functionName>
+    <functionName>function</functionName>
+    <functionName>function</functionName>
+    <functionName>function</functionName>
+    <functionName>function</functionName>
+    <functionName>function</functionName>
+    <functionName>function</functionName>
+    <functionName>function</functionName>
+  </serviceEntryFunctions>
+  <logFileName>test.log</logFileName>
+  <rules>
+    <rule>ElapsedTime</rule>
+    <rule>MethodPosition</rule>
+  </rules>
+</agentConfigure>

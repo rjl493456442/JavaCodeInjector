@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.hengtiansoft.peg.byteagent.Main
+Premain-Class: com.hengtiansoft.peg.byteagent.Agent
+Agent-Class: com.hengtiansoft.peg.byteagent.Agent
+Class-Path: asm-5.0.4.jar asm-analysis-5.0.4.jar  asm-commons-5.0.4.jar asm-tree-5.0.4.jar asm-util-5.0.4.jar asm-xml-5.0.4.jar commons-logging-1.2.jar dom4j-1.6.1.jar
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true

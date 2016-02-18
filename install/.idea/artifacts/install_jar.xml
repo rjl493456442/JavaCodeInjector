@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="install:jar">
+    <output-path>$PROJECT_DIR$/../byteAgent/out/artifacts/agent/lib</output-path>
+    <root id="archive" name="install.jar">
+      <element id="module-output" name="install" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jdk1.7.0_04/lib/tools.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
